@@ -1,14 +1,19 @@
 - name: Bill Mills
   affiliation: Mozilla Science Lab
   github: BillMills
-  interests:
+   interests:
     - Programming
     - Open Science
+    
 
 - name: Syed Omar Faruk Towaha
-  affiliation: Shahjalal University of Science and technology, Sylhet
+  affiliation: Shahjalal University of Science and Technology, Sylhet
   github: SOFTowaha
   interests:
     - Algorithms;
     - Open Science and Sharing;
     - Playing with codes; 
+
+
+
+    - 
